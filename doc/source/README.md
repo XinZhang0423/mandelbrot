@@ -13,8 +13,9 @@ Mandelbrot est un projet based on Python. Il est un projet pour TP final d'optio
 
 ## Installation
 
-`cd \path\to\setup.py`
-`pip install setup.py`
+`$ cd \path\to\setup.py`
+
+``$ pip install setup.py`
 
 ## Usage et Resultats
 
@@ -70,6 +71,7 @@ Wall time: 13.4 s
 
 ```bash
 Mandelbrot
+├── doc               #documentation générée par Sphinx
 ├── LICENSE   
 ├── README.md
 ├── mandelbrot
@@ -81,6 +83,18 @@ Mandelbrot
 ├── setup.cfg
 └── setup.py
 ```
+
+# Documentation:
+
+Pour voir les documentations générées par Sphinx:
+
+`$ cd /path/doc`
+
+`$ python -m http.server`
+
+Que l'on pourra voir à l'adresse suivante  : http://localhost:8000/build/html/Mandelbrot.html
+
+
 
 
 
