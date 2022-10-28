@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mandelbrot
+Version: 1.0
+Summary: générateur images de lensemble  de Mandelbrot et de Julia
+Author: Xin ZHANG Anran SHEN Li NI
+Author-email: xin.zhang@eleves.ec-nantes.fr
+License: MIT
+Requires-Python: >=3.6
+Description-Content-Type: “text/markdown”
+License-File: LICENSE

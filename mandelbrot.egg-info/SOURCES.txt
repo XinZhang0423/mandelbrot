@@ -1,0 +1,14 @@
+LICENSE
+pyproject.toml
+setup.cfg
+setup.py
+mandelbrot/__init__.py
+mandelbrot/__main__.py
+mandelbrot/affichage.py
+mandelbrot/mand_calcule.py
+mandelbrot.egg-info/PKG-INFO
+mandelbrot.egg-info/SOURCES.txt
+mandelbrot.egg-info/dependency_links.txt
+mandelbrot.egg-info/entry_points.txt
+mandelbrot.egg-info/requires.txt
+mandelbrot.egg-info/top_level.txt
